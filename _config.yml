@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "light"
-title                    : "Your Name / Site Title"
+title                    : "Rafael Gonzalez-Manzanares"
 title_separator          : "-"
 name                     : &name "Rafael Gonzalez-Manzanares"
 description              : &description "Academic cardiologist"
-url                      : https://rafaelglezm.github.io.
+url                      : "https://rafaelglezm.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
