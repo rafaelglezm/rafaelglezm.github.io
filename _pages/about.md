@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am Rafael Gonzalez-Manzanares, MD, PhD, an academic cardiologist based in Córdoba (Spain), with a focus on heart failure and cardio-oncology. I split my time between patient care and clinical research under a Juan Rodés contract funded by the Carlos III Health Institute (Madrid, Spain).
+
+I also hold an MSc in Statistics for Clinical Trials from University College London. This site presents my publications, academic projects, and ongoing collaborations. I particularly enjoy applied biostatistics and R coding.
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
