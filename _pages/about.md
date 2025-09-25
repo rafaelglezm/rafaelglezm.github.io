@@ -1,60 +1,23 @@
 ---
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
+permalink: /about/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-I am Rafael Gonzalez-Manzanares, MD, PhD, an academic cardiologist based in Córdoba (Spain), with a focus on heart failure and cardio-oncology. I split my time between patient care and clinical research under a Juan Rodés contract funded by the Carlos III Health Institute (Madrid, Spain).
+## About me
 
-I also hold an MSc in Statistics for Clinical Trials from University College London. This site presents my publications, academic projects, and ongoing collaborations. I particularly enjoy applied biostatistics and R coding.
+Rafael Gonzalez-Manzanares is a cardiologist and clinical researcher with a special interest in heart failure, coronary artery disease, and cardio-oncology. He trained in medicine and cardiology at the University of Córdoba (Spain), holds a PhD in Biomedicine, and completed an MSc in Statistics at University College London (UK), with a focus on clinical research methodology. He is currently based at the Heart Failure and Transplant Unit of Reina Sofía University Hospital in Córdoba, and holds a physician-scientist Juan Rodés contract from the Instituto de Salud Carlos III (Madrid, Spain).
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+His academic and clinical work bridges clinical cardiology, real-world data, and clinical trials aimed at improving patient-centred outcomes. His research focuses on the most prevalent contemporary cardiovascular diseases, particularly heart failure and coronary artery disease, as well as on more vulnerable populations, such as patients affected by the cardiotoxic effects of cancer therapies. His methodological interests include leveraging health system data to design more efficient clinical trials that are less burdensome for patients and other stakeholders.
 
-A data-driven personal website
-======
-I am Rafael Gonzalez-Manzanares, MD, PhD, an academic cardiologist based in Córdoba (Spain), with a focus on heart failure and cardio-oncology. I split my time between patient care and clinical research under a Juan Rodés contract funded by the Carlos III Health Institute (Madrid, Spain).
+He is actively involved in multiple national and international collaborative projects, including both interventional trials and large-scale observational registries. He also serves on the board of the **Young Cardiologists Committee** of the Spanish Society of Cardiology.
 
-I also hold an MSc in Statistics for Clinical Trials from University College London. This site presents my publications, academic projects, and ongoing collaborations. I particularly enjoy applied biostatistics and R coding.
+---
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+## Sobre mí
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+Rafael González-Manzanares es cardiólogo e investigador clínico con especial dedicación a la insuficiencia cardiaca, la cardiopatía isquémica y la cardio-oncología. Se formó en Medicina y Cardiología en la Universidad de Córdoba (España), es doctor en Biomedicina y cuenta con un máster en Estadística por el University College London (UK), centrado en metodología de investigación clínica. Actualmente trabaja en la Unidad de Insuficiencia Cardiaca y Trasplante del Hospital Universitario Reina Sofía (Córdoba), y cuenta con un contrato Juan Rodés del Instituto de Salud Carlos III (Madrid).
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Su trabajo combina la actividad clínica asistencial con investigación en ensayos clínicos y datos del mundo real, siempre con un enfoque en mejorar los resultados centrados en el paciente. Sus áreas de interés incluyen las enfermedades cardiovasculares más prevalentes —especialmente la insuficiencia cardiaca y la cardiopatía isquémica—, así como el estudio de poblaciones más vulnerables, como los pacientes afectados por los efectos cardiotóxicos de tratamientos oncológicos. A nivel metodológico, trabaja en el uso de datos de sistemas de salud para diseñar ensayos clínicos más eficientes y menos exigentes para pacientes e investigadores.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Participa activamente en múltiples proyectos colaborativos, tanto nacionales como internacionales, incluyendo ensayos clínicos y grandes registros observacionales. Además, forma parte del comité directivo del **Grupo de Jóvenes Cardiólogos** de la Sociedad Española de Cardiología.
