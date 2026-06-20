@@ -21,3 +21,7 @@ package-lock.json
 
 # Ignore files created by MacOS
 .DS_Store
+
+# Agent working files (Claude Code settings, Cowork handoff notes)
+.claude/
+.handoff.md
