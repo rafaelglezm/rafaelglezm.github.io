@@ -30,22 +30,26 @@ Competitive funding and contracts
 * Río Hortega contract (CM22/00259), ISCIII, 2023-2025.
 * Mobility grant M-AES (MV24/00106), ISCIII, 2025, for a research stay at the MRC Clinical Trials Unit at UCL, London.
 * Principal investigator on competitive grants of the Spanish and Andalusian Societies of Cardiology (including CTOXALL and the Jesús Saldaña Multicentre Grant, SAC 2026).
+* Principal investigator, clinical and epidemiological research grant of the Spanish Society of Cardiology (SEC/FEC), 2026, on the relevance of patient-centred cardiovascular endpoints in the design and analysis of clinical trials.
 * Co-investigator on ISCIII projects (PI23/01554, PMP22/00105, PI21/00949) and the European COMPASS project.
 
 Research focus
 ======
-Heart failure, cardio-oncology, ischaemic heart disease, randomised clinical trials, trial methodology and patient preferences. Author or co-author of more than 60 peer-reviewed publications, several as principal author and several in top-decile (D1) journals.
+Heart failure, cardio-oncology, ischaemic heart disease, randomised clinical trials, trial methodology and patient preferences. Author or co-author of more than 75 peer-reviewed publications, several as principal author and several in top-decile (D1) journals.
 
 Editorial and professional service
 ======
 * Associate Editor, *BMC Medicine*.
 * Associate Editor, *BMC Cardiovascular Disorders*.
+* Statistical Editor, *JACC: Advances* (American College of Cardiology), 2026-2031.
 * Board member, Young Cardiologists Group, Spanish Society of Cardiology (SEC).
 * Member, Cardio-Oncology working groups of the Spanish (SEC) and Andalusian (SAC) Societies of Cardiology.
-* Peer-review accreditations: CASEC reviewer (Revista Española de Cardiología; REC Interventional Cardiology). Author Service Award 2026, BMC Cardiovascular Disorders.
+* Peer-review accreditations: CASEC reviewer (Revista Española de Cardiología; REC Interventional Cardiology). Author Service Award 2026, BMC Cardiovascular Disorders. Reviewer, JACC: Advances.
 
 Selected awards
 ======
+* Best original article award "Mujer y Corazón", Spanish Society of Cardiology (SEC), 2026, for the paper on sex differences in the diagnosis and management of heart failure in outpatients with type 2 diabetes.
+* Best communication award, ESC Cardio-Oncology 2026, Spanish Society of Cardiology (SEC).
 * Finalist, Young Investigator Award, ESC Cardio-Oncology.
 * Best article award, Andalusian Society of Cardiology (SAC), 2023.
 * Research grant award, SAC, 2019.

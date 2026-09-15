@@ -19,11 +19,11 @@ Training
 ======
 I hold a **PhD in Biomedicine** from the Universidad de Córdoba (2022) and an **MSc in Statistics for Clinical Trials** from **University College London (UCL)**, awarded with Distinction. My UCL research project, carried out during an ISCIII-funded mobility stay at the **MRC Clinical Trials Unit at UCL**, validated a computational algorithm for the identification of myocardial infarction in healthcare-systems data. I maintain an active methodological collaboration with the unit.
 
-I am author or co-author of more than 60 peer-reviewed publications, several of them as principal (first or corresponding) author and a number in top-decile (D1) journals. A full list is available on the [Publications](/publications/) page.
+I am author or co-author of more than 75 peer-reviewed publications, several of them as principal (first or corresponding) author and a number in top-decile (D1) journals. A full list is available on the [Publications](/publications/) page.
 
 Service and teaching
 ======
-I serve as **Associate Editor** of *BMC Medicine* and *BMC Cardiovascular Disorders*, and I am a board member of the **Young Cardiologists Group of the Spanish Society of Cardiology (SEC)**. Alongside my clinical and research activity, I supervise doctoral theses and undergraduate dissertations and teach within the Degree in Medicine at the Universidad de Córdoba. Details are on the [Teaching](/teaching/) and [CV](/cv/) pages.
+I serve as **Statistical Editor** of *JACC: Advances* (American College of Cardiology) and as **Associate Editor** of *BMC Medicine* and *BMC Cardiovascular Disorders*, and I am a board member of the **Young Cardiologists Group of the Spanish Society of Cardiology (SEC)**. Alongside my clinical and research activity, I supervise doctoral theses and undergraduate dissertations and teach within the Degree in Medicine at the Universidad de Córdoba. Details are on the [Teaching](/teaching/) and [CV](/cv/) pages.
 
 Contact
 ======
