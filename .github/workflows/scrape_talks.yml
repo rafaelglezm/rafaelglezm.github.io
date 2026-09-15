@@ -1,11 +1,9 @@
 name: Scrape Talk Locations
 
+# Desactivado: el notebook talkmap.ipynb falla en Actions y el mapa de charlas
+# no se usa. Solo se puede lanzar manualmente desde la pestaña Actions.
 on:
-  push:
-    paths:
-      - 'talks/**'
-      - '_talks/**'
-      - 'talkmap.ipynb'
+  workflow_dispatch:
 
 jobs:
   build:
