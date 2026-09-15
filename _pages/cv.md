@@ -57,6 +57,16 @@ Selected awards
 * Excellent Resident Award "Carlos Pera".
 * Awards "Dr. Pedrote" and COMC 2025.
 
+Books and book chapters
+======
+Author of 24 book chapters and coordinator of one volume (2020-2027). Selected:
+* *Tratado de Cardiología*, 1st ed. Sociedad Española de Cardiología / Editorial Médica Panamericana, Madrid, 2027. Chapter 18.1, "Miocarditis" (with P. Escane Duarte), pp. 569-578. ISBN 9788411064569.
+* *A Complete Guide to Atrial Abnormalities: From Computational Analysis to Clinical Applications*. Elsevier / Academic Press, 2025. Chapter 7, "Atrial failure" (with M. Ruiz Ortiz and A. Bayés-Genís), pp. 155-197. ISBN 978-0-443-34260-8.
+* *Liga de los Casos Clínicos 2025*. Sociedad Española de Cardiología, 2025. Coordinator (with G. Alonso Salinas, S. Calero Núñez and P. Cepas Guillén). ISBN 978-84-09-77917-8.
+* *Manual de tratamiento percutáneo de la estenosis aórtica*. Elsevier España, 2022. Chapter 24, "Accesos vasculares: elección y evaluación previa al implante" (with M. Pan et al.). ISBN 978-84-9113-892-1.
+* *Cardiología hoy* (annual review of advances in research and clinical practice), Sociedad Española de Cardiología: single-author chapters in the 2022, 2023, 2024 and 2025 editions.
+* *Compendio de casos clínicos de riesgo CV de origen lipídico V*. Viatris, 2026. Case 19, pp. 68-71. ISBN 978-84-09-80448-1.
+
 Teaching
 ======
 * Co-supervisor of three doctoral theses (Universidad de Córdoba, all defended in 2026 with Sobresaliente Cum Laude). See the [Teaching](/teaching/) page.
@@ -67,6 +77,7 @@ Teaching
 
 Supervised undergraduate dissertations (TFG)
 ======
+
 | Year | Student | Title |
 |---|---|---|
 | 2020 | Stambolsky Guelfand, C.M. | Prevalence of late anthracycline-induced cardiotoxicity in survivors of childhood acute lymphoblastic leukaemia: a pilot study |
