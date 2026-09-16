@@ -23,7 +23,7 @@ I am author or co-author of more than 75 peer-reviewed publications, several of 
 
 Service and teaching
 ======
-I serve as **Statistical Editor** of *JACC: Advances* and as **Associate Editor** of *BMC Medicine* and *BMC Cardiovascular Disorders*, and I am a board member of the **Young Cardiologists Group of the Spanish Society of Cardiology (SEC)**. Alongside my clinical and research activity, I supervise doctoral theses and undergraduate dissertations and teach within the Degree in Medicine at the Universidad de Córdoba. Details are on the [Teaching](/teaching/) and [CV](/cv/) pages.
+I serve as **Statistical Editor** of *JACC: Advances* and I am a board member of the **Young Cardiologists Group of the Spanish Society of Cardiology (SEC)**. Alongside my clinical and research activity, I supervise doctoral theses and undergraduate dissertations and teach within the Degree in Medicine at the Universidad de Córdoba. Details are on the [Teaching](/teaching/) and [CV](/cv/) pages.
 
 Contact
 ======

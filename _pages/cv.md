@@ -39,9 +39,8 @@ Heart failure, cardio-oncology, ischaemic heart disease, randomised clinical tri
 
 Editorial and professional service
 ======
-* Associate Editor, *BMC Medicine*.
-* Associate Editor, *BMC Cardiovascular Disorders*.
 * Statistical Editor, *JACC: Advances*, 2026-2031.
+* Former Editorial Board Member, *BMC Medicine* and *BMC Cardiovascular Disorders* (until 2026).
 * Board member, Young Cardiologists Group, Spanish Society of Cardiology (SEC).
 * Member, Cardio-Oncology working groups of the Spanish (SEC) and Andalusian (SAC) Societies of Cardiology.
 * Peer-review accreditations: CASEC reviewer (Revista Española de Cardiología; REC Interventional Cardiology). Author Service Award 2026, BMC Cardiovascular Disorders. Reviewer, JACC: Advances.
